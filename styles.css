@@ -42,7 +42,7 @@
     font-weight: 100px;
   }
 
-  .header{
+  /*.header{
     background-color: #333;
   }
 
@@ -74,10 +74,6 @@
 
 .searchc{
   float:right;
-}
-
-.fix{
-  position: fixed;
 }
 
 .topnav input[type=text] {
@@ -119,4 +115,4 @@
   #navbar input[type=text] {
     border: 1px solid #ccc;
   }
-}
+}*/
