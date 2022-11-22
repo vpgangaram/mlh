@@ -42,7 +42,7 @@
     font-weight: 100px;
   }
 
-  /*.header{
+  .header{
     background-color: #333;
   }
 
@@ -112,7 +112,9 @@
     margin: 0;
     padding: 14px;
   }
-  #navbar input[type=text] {
+  .topnav input[type=text] {
     border: 1px solid #ccc;
   }
-}*/
+
+
+}
